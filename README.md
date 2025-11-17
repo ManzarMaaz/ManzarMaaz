@@ -1,7 +1,3 @@
-<!-- ======================================================= -->
-<!--               PREMIUM PROFILE — MANZAR MAAZ            -->
-<!-- ======================================================= -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7F5CFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Manzar+Maaz!;Python+Developer;Automation+%7C+APIs+%7C+Backend;Building+Projects+That+Make+an+Impact+🚀" />
 </p>
@@ -106,7 +102,7 @@ HTML, CSS, JS projects from my frontend development journey.
 # 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manzarmaaz">
+  <a href="www.linkedin.com/in/mohammed-manzar-maaz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ManzarMaaz">
