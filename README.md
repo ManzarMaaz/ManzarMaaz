@@ -93,7 +93,6 @@ HTML, CSS, JS projects from my frontend development journey.
 # 🎯 **Fun Facts**
 - Coffee + Code = Productivity  
 - I love learning by building  
-- Music helps me hyperfocus  
 - I enjoy improving old code  
 - I love shipping new projects  
 
