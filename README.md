@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/mohammed-manzar-maaz">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohammadmanzarmaaz@gmail.com">
+  <a href="mailto:themmm2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ManzarMaaz">
@@ -45,7 +45,7 @@ My work ranges from optimizing distributed network latency to building intuitive
 
 <br>
 
-### 💻 **Development & Bootcamps**
+### 💻 **Development & Collections**
 *Collections of scripts, apps, and challenges from my continuous learning journey.*
 
 | Repository | Description | Key Tech |
