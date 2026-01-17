@@ -1,76 +1,75 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7F5CFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Manzar+Maaz!;Python+Developer;Automation+%7C+APIs+%7C+Backend;Building+Projects+That+Make+an+Impact+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=003264&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7F5CFF&section=header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=003264&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohammed+Manzar+Maaz;Systems+Engineer+%7C+Distributed+Architectures;Building+Scalable+Cloud+Systems;Researching+Applied+AI+%26+Security;Always+Learning+%26+Building+🚀" />
 </p>
-
-# 👋 **Welcome!**
-I'm **Manzar Maaz**, a passionate developer focused on **Python**, **Automation**, **APIs**, and **Backend Engineering**.
-
-I love learning, experimenting, and building real-world projects that make life easier — from bots and scrapers to full-stack web apps.
-
----
-
-# 🚀 **About Me**
-
-- 💻 Aspiring Python Developer  
-- 🌱 Always learning new technologies  
-- 🛠️ Strong focus on **Automation**, **APIs**, **Backend**, **Web Dev**  
-- 🎯 Building real projects consistently  
-- 🤝 Love collaborating and contributing  
-- ☕ Fueled by coffee and curiosity  
-
----
-
-# 🏆 **Featured Repositories**
-
-### 🔥 **PYTHON-BOOTCAMP**
-70+ Python projects — automation, GUIs, APIs, scrapers, games, bots, Flask apps, and more.
-
-### 💡 **CODSOFT**
-Challenges and projects completed in the CodSoft internship program.
-
-### 🌐 **WEB-DEV-BOOTCAMP**
-HTML, CSS, JS projects from my frontend development journey.
-
----
-
-# ⚙️ **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,javascript,bs,selenium,git,github,vscode" />
+  <a href="https://linkedin.com/in/mohammed-manzar-maaz">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadmanzarmaaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ManzarMaaz">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-### 🧠 Additional Skills
-- Problem Solving  
-- REST APIs  
-- Automation & Bots  
-- Web Scraping (BS4)  
-- Tkinter GUIs  
-- SQL & Data Handling  
-- Git/GitHub Workflow  
 
 ---
 
-# 🚀 **Highlighted Projects**
+# 👋 **About Me**
+I am a **Systems Engineer** and **Full-Stack Developer** passionate about bridging the gap between theoretical algorithms and deployable production systems. 
 
-- 📘 **Flask Blog CMS** — CRUD + Auth + Admin  
-- 🤖 **Instagram Automation Bot**  
-- ✈️ **Flight Deal Tracker (APIs)**  
-- 🔐 **Password Manager (Tkinter)**  
-- 🎵 **Spotify Playlist Maker**  
-- ☕ **Café & WiFi Finder (Flask + SQL)**  
+My work ranges from optimizing distributed network latency to building intuitive full-stack web applications. I love learning, experimenting, and shipping code that solves real-world problems.
+
+* 🔭 **Currently Working On:** Distributed Systems & Applied AI Research.
+* 🛠️ **Core Focus:** Automation, Backend Engineering, Cloud Architecture.
+* 🎓 **Education:** B.Tech in CSE (AI & ML) — JNTUH.
+
+---
+
+# 🛠️ **Featured Projects**
+
+### 🔬 **Research & Systems Engineering**
+*Professional-grade deployments focusing on performance, security, and scalability.*
+
+| Project | Domain | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| [**Async Distributed Fare Engine**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/01-Async-Distributed-Fare-Engine) | Systems | `asyncio`, `aiohttp` | Reduced latency from **60s to <5s** for concurrent streams. |
+| [**High-Volume ETL Pipeline**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/02-High-Volume-ETL-Pipeline) | Data Eng | `Selenium`, `BS4` | Harvested **1,000+ data points** with anti-bot evasion. |
+| [**Secure RBAC CMS**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/03-Secure-RBAC-CMS) | Security | `Flask`, `Werkzeug` | Implemented strict **Role-Based Access Control**. |
+| [**Faster R-CNN Calorie Vision**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/04-Faster-RCNN-Calorie-Vision) | AI/CV | `PyTorch`, `Django` | Deployed ResNet-50 with **Singleton Loading**. |
+
+<br>
+
+### 💻 **Development & Bootcamps**
+*Collections of scripts, apps, and challenges from my continuous learning journey.*
+
+| Repository | Description | Key Tech |
+| :--- | :--- | :--- |
+| [**Python-Algorithms-Collection**](https://github.com/ManzarMaaz/Python-Algorithms-Collection) | **70+ Projects** covering automation, GUIs, APIs, scrapers, games, and Flask apps. | `Python`, `Tkinter`, `Pandas` |
+| [**Web-Dev-Collection**](https://github.com/ManzarMaaz/Web-Dev-Collection) | A comprehensive journey through modern frontend development. | `HTML5`, `CSS3`, `JS`, `React` |
+| [**CODSOFT**](https://github.com/ManzarMaaz/CODSOFT) | Challenges and projects completed during my software development internship. | `Python`, `Algorithms` |
+
+---
+
+# ⚙️ **Technical Arsenal**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,pytorch,selenium,docker,git,linux,mysql,postgres,aws,html,css,js,react" />
+</p>
+
+* **Languages:** Python (Advanced), SQL, C++, JavaScript
+* **Backend:** Flask, Django, REST APIs, OAuth 2.0, Asyncio
+* **Data & AI:** PyTorch, Pandas, NumPy, Scikit-Learn, OpenCV
+* **Tools:** Git, Docker, Postman, Linux/Bash, VS Code
 
 ---
 
 # 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManzarMaaz&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManzarMaaz&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManzarMaaz&theme=react-dark&hide_border=true&area=true" />
@@ -78,7 +77,7 @@ HTML, CSS, JS projects from my frontend development journey.
 
 ---
 
-# 🐍 **Contribution Snake**
+# 🐍 **Contribution History**
 
 <p align="center">
   <picture>
@@ -90,25 +89,6 @@ HTML, CSS, JS projects from my frontend development journey.
 
 ---
 
-# 🎯 **Fun Facts**
-- Coffee + Code = Productivity  
-- I love learning by building  
-- I enjoy improving old code  
-- I love shipping new projects  
-
----
-
-# 🌐 **Connect With Me**
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-manzar-maaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ManzarMaaz">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=7F5CFF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=003264&section=footer" />
 </p>
