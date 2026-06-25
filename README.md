@@ -1,83 +1,113 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=003264&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&customColorList=0,2,4,12,20&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=003264&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohammed+Manzar+Maaz;Systems+Engineer+%7C+Distributed+Architectures;Building+Scalable+Cloud+Systems;Researching+Applied+AI+%26+Security;Always+Learning+%26+Building+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=009688&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohammed+Manzar+Maaz+👋;AI+Backend+Engineer+%7C+Python+%7C+FastAPI+%7C+Django;Building+RAG+Pipelines+%26+Distributed+Systems;LlamaIndex+%7C+Celery+%7C+pgvector+%7C+Docker+%7C+AWS;Shipping+Production+AI+Infrastructure+🚀" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-manzar-maaz">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:themmm2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:manzarmaaz@proton.me">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://github.com/ManzarMaaz">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://the-open-log.duckdns.org">
+    <img src="https://img.shields.io/badge/Live_Project-The_Open_Log-009688?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 👋 **About Me**
-I am a **Systems Engineer** and **Full-Stack Developer** passionate about bridging the gap between theoretical algorithms and deployable production systems. 
+## 👨‍💻 About Me
 
-My work ranges from optimizing distributed network latency to building intuitive full-stack web applications. I love learning, experimenting, and shipping code that solves real-world problems.
+I'm an **AI Backend Engineer** (B.Tech CSE — AI & ML, JNTUH 2025) who builds the **production infrastructure that AI features actually run on** — distributed FastAPI/Django systems, Celery/Redis async pipelines, and RAG services using LlamaIndex, Gemini, and PostgreSQL/pgvector.
 
-* 🔭 **Currently Working On:** Distributed Systems & Applied AI Research.
-* 🛠️ **Core Focus:** Automation, Backend Engineering, Cloud Architecture.
-* 🎓 **Education:** B.Tech in CSE (AI & ML) — JNTUH.
+- 🚀 **Currently Building:** Production-grade RAG pipelines, distributed microservices & GenAI backend systems
+- 🧠 **Core Focus:** LLM integration, vector search, async task orchestration, cloud-native deployments
+- 🏆 **Best Performer** (5★) at Elevate Labs — 15% faster SQL, 20% fewer bugs, 50+ concurrent async connections
+- 🎓 **Education:** B.Tech CSE (AI & ML) — JNTUH | Major Project: Grade **'O' Outstanding**
+- 📍 **Location:** Hyderabad, India | Open to Remote
 
 ---
 
-# 🛠️ **Featured Projects**
+## 🚀 Featured Projects
 
-### 🔬 **Research & Systems Engineering**
-*Professional-grade deployments focusing on performance, security, and scalability.*
+### 🔥 Production & AI Systems
+*End-to-end distributed systems with real AI workloads.*
 
-| Project | Domain | Tech Stack | Highlights |
+| Project | Domain | Stack | Impact |
 | :--- | :--- | :--- | :--- |
-| [**Async Distributed Fare Engine**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/01-Async-Distributed-Fare-Engine) | Systems | `asyncio`, `aiohttp` | Reduced latency from **60s to <5s** for concurrent streams. |
-| [**High-Volume ETL Pipeline**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/02-High-Volume-ETL-Pipeline) | Data Eng | `Selenium`, `BS4` | Harvested **1,000+ data points** with anti-bot evasion. |
-| [**Secure RBAC CMS**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/03-Secure-RBAC-CMS) | Security | `Flask`, `Werkzeug` | Implemented strict **Role-Based Access Control**. |
-| [**Faster R-CNN Calorie Vision**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/04-Faster-RCNN-Calorie-Vision) | AI/CV | `PyTorch`, `Django` | Deployed ResNet-50 with **Singleton Loading**. |
+| [**✈️ Distributed Flight Aggregator & AI Policy Engine**](https://github.com/ManzarMaaz/flight-aggregator) | AI Backend | `FastAPI` `Celery` `Redis` `pgvector` `LlamaIndex` `Gemini` | RAG engine · 50+ async routes · automated deal alerts |
+| [**📰 The Open Log 2.0 — AI Django CMS**](https://the-open-log.duckdns.org) | Cloud/AI | `Django` `Celery` `AWS EC2/S3` `Docker` `GitHub Actions` | Live on AWS · AI pipeline · zero-downtime CI/CD |
+| [**🔌 Enterprise REST API**](https://github.com/ManzarMaaz/Enterprise-REST-API) | Backend | `Django` `DRF` `PostgreSQL` `Gunicorn` `Railway` | 50% less boilerplate · N+1 eliminated · HyperlinkedSerializer |
+| [**📚 Library API Microservice**](https://github.com/ManzarMaaz/Library-API) | Microservice | `FastAPI` `Uvicorn` `Pydantic` `OpenAPI` | Async · strict validation · auto Swagger docs |
 
 <br>
 
-### 💻 **Development & Collections**
-*Collections of scripts, apps, and challenges from my continuous learning journey.*
+### 🔬 Systems & Engineering
+*Performance-focused deployments — concurrency, security, data engineering.*
 
-| Repository | Description | Key Tech |
+| Project | Domain | Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| [**Async Distributed Fare Engine**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/01-Async-Distributed-Fare-Engine) | Systems | `asyncio` `aiohttp` | Latency: **60s → <5s** for concurrent streams |
+| [**High-Volume ETL Pipeline**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/02-High-Volume-ETL-Pipeline) | Data Eng | `Selenium` `BS4` `Google Sheets API` | **1,000+ records** with anti-bot evasion |
+| [**Secure RBAC CMS**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/03-Secure-RBAC-CMS) | Security | `Flask` `Werkzeug` | Strict **Role-Based Access Control** |
+| [**Faster R-CNN Calorie Vision**](https://github.com/ManzarMaaz/Engineering-Deployments/tree/main/04-Faster-RCNN-Calorie-Vision) | AI/CV | `PyTorch` `Django` | ResNet-50 with **Singleton Loading** |
+
+<br>
+
+### 💻 Collections & Learning
+| Repository | Description | Stack |
 | :--- | :--- | :--- |
-| [**Python-Algorithms-Collection**](https://github.com/ManzarMaaz/Python-Algorithms-Collection) | **70+ Projects** covering automation, GUIs, APIs, scrapers, games, and Flask apps. | `Python`, `Tkinter`, `Pandas` |
-| [**Web-Dev-Collection**](https://github.com/ManzarMaaz/Web-Dev-Collection) | A comprehensive journey through modern frontend development. | `HTML5`, `CSS3`, `JS`, `React` |
-| [**CODSOFT**](https://github.com/ManzarMaaz/CODSOFT) | Challenges and projects completed during my software development internship. | `Python`, `Algorithms` |
+| [**Python-Algorithms-Collection**](https://github.com/ManzarMaaz/Python-Algorithms-Collection) | **70+ projects** — automation, GUIs, APIs, scrapers, games, Flask apps | `Python` `Tkinter` `Pandas` |
+| [**Web-Dev-Collection**](https://github.com/ManzarMaaz/Web-Dev-Collection) | Frontend journey through modern web development | `HTML5` `CSS3` `JS` `React` |
+| [**CODSOFT**](https://github.com/ManzarMaaz/CODSOFT) | Projects from my Python developer internship | `Python` `SQLite` |
 
 ---
 
-# ⚙️ **Technical Arsenal**
+## ⚙️ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,pytorch,selenium,docker,git,linux,mysql,postgres,aws,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,celery,redis,postgres,docker,aws,git,linux,github,vscode" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium,flask,nginx,postman,mysql,html,css,js,react,bash" />
 </p>
 
-* **Languages:** Python (Advanced), SQL, C++, JavaScript
-* **Backend:** Flask, Django, REST APIs, OAuth 2.0, Asyncio
-* **Data & AI:** PyTorch, Pandas, NumPy, Scikit-Learn, OpenCV
-* **Tools:** Git, Docker, Postman, Linux/Bash, VS Code
+<br>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **AI / LLM** | LlamaIndex · LangChain · LangGraph · Google Gemini · RAG Pipelines · Prompt Engineering · LangSmith |
+| **Vector Search** | PostgreSQL + pgvector · Semantic Search · Hybrid Search · Embedding Generation |
+| **Backend** | FastAPI · Django · Django REST Framework · Flask |
+| **Async & Tasks** | Celery · Celery Beat · Redis · asyncio · httpx |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM) · Docker · Docker Compose · GitHub Actions · Nginx · Gunicorn |
+| **Databases** | PostgreSQL · SQLAlchemy · Django ORM · SQLite · MySQL |
+| **Security** | OAuth 2.0 · Pydantic BaseSettings · Let's Encrypt SSL · RBAC |
+| **Testing** | pytest · unittest · Django Debug Toolbar |
 
 ---
 
-# 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManzarMaaz&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManzarMaaz&theme=react-dark&hide_border=true&area=true&color=009688&line=009688&point=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManzarMaaz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=009688&icon_color=009688" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManzarMaaz&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=009688" height="165" />
 </p>
 
 ---
 
-# 🐍 **Contribution History**
+## 🐍 Contribution History
 
 <p align="center">
   <picture>
@@ -90,5 +120,9 @@ My work ranges from optimizing distributed network latency to building intuitive
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=003264&section=footer" />
+  <i>Building production AI backend systems — one distributed microservice at a time.</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0D1117&customColorList=0,2,4,12,20&section=footer" />
 </p>
